@@ -1,1 +1,1 @@
-# graca.atelie
+# Repositório para desenvolvimento do cliente Graça Ateliê.
